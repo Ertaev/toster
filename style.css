@@ -624,6 +624,7 @@ body::-webkit-scrollbar {
     background: #b0fde4;
     cursor: pointer;
     border: none;
+    color: #000;
 }
 
 .description .purchase__info {
@@ -765,6 +766,7 @@ body::-webkit-scrollbar {
     font-size: 20px;
     line-height: 24px;
     font-weight: 700;
+    color: #000;
 }
 
 .popup-open {
@@ -856,6 +858,7 @@ body::-webkit-scrollbar {
     font-size: 8px;
     line-height: 12px;
     cursor: pointer;
+    color: #000;
 }
 
 .footer-activ {
